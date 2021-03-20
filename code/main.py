@@ -29,8 +29,8 @@ GPIO.setup(Motor, GPIO.OUT)
 
 
 def send_an_email(message):  
-    toaddr = 'vpraveenplayer@gmail.com'      # To id 
-    me = 'vpraveenkumar0200@gmail.com'          # your id
+    toaddr = ''      # To id 
+    me = ''          # your id
     subject = "What's News"              # Subject
 
     msg = MIMEMultipart()  
@@ -51,7 +51,7 @@ def send_an_email(message):
        s.ehlo()  
        s.starttls()  
        s.ehlo()  
-       s.login(user = 'vpraveenkumar0200@gmail.com', password = 'Praveen#18')  # User id & password
+       s.login(user = ' ', password = ' ')  # User id & password of sending email id
        #s.send_message(message)  
        s.sendmail(me, toaddr, msg.as_string())
        print("Done")
