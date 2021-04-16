@@ -1,6 +1,17 @@
 # Driver-Assistant-System
 This Repository contains all files related to Driver Assistant System Project
 
+## What it does ??
+This project consists of three inter-linked modules which are firstly, driver
+drowsiness detection, followed by alcohol content detection and accident/crash
+detection alongside control to constantly monitor the driver’s physiological
+condition which will affect the stability of the vehicle. To implement this, a
+variety of software algorithms and input extraction hardware tools have been
+employed in a collaborative way. For the industrial implementation of this
+project a prototype has been developed. To detect the onset of fatigue or loss of
+vigilance of the driver, within the close vicinity of the driver multiple sensors
+are embedded on this prototype.
+
 ## Some of the Important details to be noted:
 1.The SMTP protocol which is used to send mail works only on JIO network. <br>
 2.The Raspberry pi is connected to laptop using remote desktop connection app on windows 10.<br>
@@ -23,4 +34,10 @@ This Repository contains all files related to Driver Assistant System Project
 
 <h5>2 Msg <h5>
  <img src="https://github.com/praveenkumar0211/Driver-Assistant-System/blob/main/images/msg.jpeg" height=400px>
+ 
+ <h1>Steps to Run the Prototype</h1>
+ 1.Connect the Raspbery pi to Computer. (I used Remote Desktop Connection App in Windows 10)
+ 2.Run the Python Program.(Main.py)
+ 3.After Detection of any of the proposed event , an alert is raised.
+ 4.Check your Email and Phone number for Alert message. 
 
