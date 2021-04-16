@@ -43,7 +43,7 @@ are embedded on this prototype.
  
  
  <h3>My Teammates </h3>
- 1.<a href="https://github.com/NachammaiPooja">Nachammai Pooja</a>
- 2.<a href="https://github.com/Aravind1411">Aravind P</a>
- 3.<a href="https://github.com/prathyush2510">Prathyush S</a>
+ 1.<a href="https://github.com/NachammaiPooja">Nachammai Pooja</a><br>
+ 2.<a href="https://github.com/Aravind1411">Aravind P</a><br>
+ 3.<a href="https://github.com/prathyush2510">Prathyush S</a><br>
 
