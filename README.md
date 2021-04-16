@@ -19,8 +19,8 @@ This Repository contains all files related to Driver Assistant System Project
 
 <h4>Alerting phase consist of 2 different modules</h4>
 <h5>1 Mail <h5>
- <img src="https://github.com/praveenkumar0211/Driver-Assistant-System/blob/main/images/mail1.jpeg" height=300px>
+ <img src="https://github.com/praveenkumar0211/Driver-Assistant-System/blob/main/images/mail1.jpeg" height=400px>
 
 <h5>2 Msg <h5>
- <img src="https://github.com/praveenkumar0211/Driver-Assistant-System/blob/main/images/msg.jpeg" height=300px>
+ <img src="https://github.com/praveenkumar0211/Driver-Assistant-System/blob/main/images/msg.jpeg" height=400px>
 
