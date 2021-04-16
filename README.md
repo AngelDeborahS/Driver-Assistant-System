@@ -9,5 +9,7 @@ This Repository contains all files related to Driver Assistant System Project
 5.Settings has to be changed for the email id which is used to send the alert.<br>
 
 <h3>Overall Prototype of the System</h3>
-<img src="https://github.com/praveenkumar0211/Driver-Assistant-System/blob/main/images/hardware.PNG">
+<img src="https://github.com/praveenkumar0211/Driver-Assistant-System/blob/main/images/hardware.PNG" height=500px>
+
+
 
