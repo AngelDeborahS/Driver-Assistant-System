@@ -36,8 +36,14 @@ are embedded on this prototype.
  <img src="https://github.com/praveenkumar0211/Driver-Assistant-System/blob/main/images/msg.jpeg" height=400px>
  
  <h1>Steps to Run the Prototype</h1>
- 1.Connect the Raspbery pi to Computer. (I used Remote Desktop Connection App in Windows 10)
- 2.Run the Python Program.(Main.py)
- 3.After Detection of any of the proposed event , an alert is raised.
- 4.Check your Email and Phone number for Alert message. 
+ 1.Connect the Raspbery pi to Computer. (I used Remote Desktop Connection App in Windows 10)<br>
+ 2.Run the Python Program.(Main.py)<br>
+ 3.After Detection of any of the proposed event , an alert is raised.<br>
+ 4.Check your Email and Phone number for Alert message. <br>
+ 
+ 
+ <h3>My Teammates </h3>
+ 1.<a href="https://github.com/NachammaiPooja">Nachammai Pooja</a>
+ 2.<a href="https://github.com/Aravind1411">Aravind P</a>
+ 3.<a href="https://github.com/prathyush2510">Prathyush S</a>
 
